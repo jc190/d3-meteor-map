@@ -1,0 +1,10 @@
+.meteor-info--container {
+  background-color: rgba(0,0,0,.8);
+  color: #fff;
+  padding: 16px;
+}
+
+.meteor-info--container p, .meteor-info--container h3 {
+  display: inline-block;
+  margin-right: 16px;
+}

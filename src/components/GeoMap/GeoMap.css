@@ -1,0 +1,7 @@
+.geo-map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #333;
+  z-index: -2;
+}
